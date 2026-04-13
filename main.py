@@ -7,9 +7,9 @@ from pytgcalls import PyTgCalls, Stream
 from youtube_search import YoutubeSearch
 
 # ---------------- CONFIG ----------------
-API_ID = 123456
-API_HASH = "your_api_hash_here"
-BOT_TOKEN = "your_bot_token_here"
+API_ID = 38345261
+API_HASH = "6f3784a808cc527fc4bbbc4052103d75"
+BOT_TOKEN = "8635411052:AAHljekicmXC9sJNHPxmGMP_R5tPfVXBhq8"
 
 # ---------------- SETUP ----------------
 logging.basicConfig(level=logging.INFO)
